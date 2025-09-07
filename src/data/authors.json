@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "James Clear", "books": 1, "bio": "Author and speaker focused on habits and decision making" },
+  { "id": 2, "name": "Matt Haig", "books": 1, "bio": "British author and journalist" },
+  { "id": 3, "name": "Yuval Noah Harari", "books": 1, "bio": "Israeli historian and professor" },
+  { "id": 4, "name": "Tara Westover", "books": 1, "bio": "American memoirist and historian" },
+  { "id": 5, "name": "Frank Herbert", "books": 1, "bio": "American science fiction writer" }
+]
